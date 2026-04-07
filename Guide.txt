@@ -1,0 +1,12 @@
+How to Download and run
+
+1.Download Node Js 
+2.Download Coding File
+3.Open Command Prompt
+    right click file and copy path
+    run in terminal(need to do everytime when want to open)
+	cd (path)  example:cd "C:\Users\avi\OneDrive\Desktop\cryptosphere-interactive"
+	npm install (only do once)
+	npm run dev 
+	click on the link
+		
